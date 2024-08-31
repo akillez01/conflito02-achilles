@@ -1,3 +1,5 @@
-const { farewell } = require('./utils');
-const name = 'Alice';
-console.log(farewell(name)); 
+<<<<<<< HEAD
+// Alteração na branch dev
+=======
+// Alteração na branch achilles
+>>>>>>> achilles
